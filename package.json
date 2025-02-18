@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ctoveloz/Location-Tracker-Whatsapp#readme",
   "dependencies": {
-    "puppeteer": "^2.1.1"
+    "puppeteer": "^24.1.1"
   }
 }
